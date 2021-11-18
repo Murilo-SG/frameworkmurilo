@@ -1,0 +1,18 @@
+section{
+  background-color: black;
+  color: white;
+  text-align:center;
+  font-size:10px;
+}
+section img{
+            height:500px;
+            border-radius:5px;
+}
+footer{
+  padding:03px;
+  color: white;
+}
+body {
+  font-family: 'Poppins';
+  margin:0px
+}
